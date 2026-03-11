@@ -1,5 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "BootWPTOS"]
+	path = BootWPTOS
+	url = https://github.com/cran/BootWPTOS
+[submodule "DDHFm"]
+	path = DDHFm
+	url = https://github.com/cran/DDHFm
+[submodule "costat"]
+	path = costat
+	url = https://github.com/cran/costat
+[submodule "haarfisz"]
+	path = haarfisz
+	url = https://github.com/cran/haarfisz
+[submodule "hwwntest"]
+	path = hwwntest
+	url = https://github.com/cran/hwwntest
+[submodule "locits"]
+	path = locits
+	url = https://github.com/cran/locits
+[submodule "waveband"]
+	path = waveband
+	url = https://github.com/cran/waveband
+[submodule "wavethresh"]
+	path = wavethresh
+	url = https://github.com/cran/wavethresh
